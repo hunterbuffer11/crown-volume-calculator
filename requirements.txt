@@ -1,20 +1,8 @@
-open3d==0.18.0
-openpyxl==3.0.10
-patsy==0.5.2
-pep8==1.7.1
-Pillow==9.2.0
-pycosat==0.6.3
-pycurl==7.45.1
-PyDispatcher==2.0.5
-pyls-spyder==0.4.0
-pytest==7.1.2
-python-lsp-jsonrpc==1.0.0
-pywin32==302
-PyYAML==6.0
 scipy==1.9.1
-sip==4.19.13
-statsmodels==0.13.2
 streamlit
-tables==3.6.1
-tk==0.1.0
+pandas
+numpy
+pyecharts
+streamlit_echarts
+os
 
